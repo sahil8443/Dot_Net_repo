@@ -1,0 +1,11 @@
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Form1.resources
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Properties.Resources.resources
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+C:\Users\mcs53\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb

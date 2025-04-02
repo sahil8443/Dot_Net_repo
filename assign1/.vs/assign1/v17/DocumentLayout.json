@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\.net\\assign1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C09491-8DB2-427D-96B9-291A719E97B1}|assign1\\assign1.csproj|z:\\.net\\assign1\\assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C09491-8DB2-427D-96B9-291A719E97B1}|assign1\\assign1.csproj|solutionrelative:assign1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\.net\\assign1\\assign1\\Program.cs",
+              "RelativeDocumentMoniker": "assign1\\Program.cs",
+              "ToolTip": "Z:\\.net\\assign1\\assign1\\Program.cs",
+              "RelativeToolTip": "assign1\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:52:40.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
